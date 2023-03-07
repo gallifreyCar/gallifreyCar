@@ -1,4 +1,13 @@
- <div align="center">
+##  🙋‍♂️Hi there
+I am GallifreyCar, a Student of Software Engineering at Shanghai Institute of Technology ,currently based in Shanghai. 
+Welcome to my repositories,I hope you can find something interesting here.
+## 🌱 I’m currently learning
+I'm currently learning Java frameworks, React, MySQL, and Redis, and I'm excited to use these skills to build robust backend systems and applications. Additionally, I'm practicing my coding skills by solving LeetCode problems to sharpen my problem-solving abilities. My ultimate goal is to become a skilled backend engineer and contribute to building reliable and scalable software systems.
+## 📫 How to reach me
+You can reach me via email at 956465331@qq.com or ufovsmba@gmail.com.
+## 💻 Some data follow
+
+<div align="center">
    <img src="https://github.com/gallifreyCar/gallifreyCar/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <div align="center" >
