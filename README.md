@@ -1,5 +1,5 @@
 ##  🙋‍♂️Hi there
-I am GallifreyCar, a Student of Software Engineering at Shanghai Institute of Technology ,currently based in Shanghai. 
+I am GallifreyCar, a Student of Software Engineering at Shanghai Institute of Technology ,currently based in Shanghai.  I'm expected to graduate in 2024.
 Welcome to my repositories,I hope you can find something interesting here.
 ## 🌱 I’m currently learning
 I'm currently learning Java frameworks, React, MySQL, and Redis, and I'm excited to use these skills to build robust backend systems and applications. Additionally, I'm practicing my coding skills by solving LeetCode problems to sharpen my problem-solving abilities. My ultimate goal is to become a skilled backend engineer and contribute to building reliable and scalable software systems.
