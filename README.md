@@ -10,6 +10,9 @@ You can reach me via email at 956465331@qq.com or ufovsmba@gmail.com.
 <div align="center">
    <img src="https://github.com/gallifreyCar/gallifreyCar/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+ <picture>
+  <img src="/github-metrics/base.svg" alt="Metrics">
+</picture>
 <div align="center" >
    <img  src="https://streak-stats.demolab.com?user=gallifreyCar&theme=merko&border_radius=4.7&mode=weekly" />
    <img  src="https://github-profile-trophy.vercel.app/?username=gallifreyCar&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
