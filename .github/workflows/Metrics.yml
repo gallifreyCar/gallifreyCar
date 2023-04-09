@@ -29,13 +29,14 @@ jobs:
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-      - name: Current year calendar
+      - name: Full history calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics/metrics.plugin.calendar.svg
+          filename: metrics.plugin.calendar.full.svg
           token: ${{ secrets.MY_TOKEN }}
           base: ""
           plugin_calendar: yes
+          plugin_calendar_limit: 0
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
@@ -44,4 +45,11 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
+      - name: Recently starred
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/metrics.plugin.stars.svg
+          token: ${{ secrets.MY_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3
