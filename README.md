@@ -8,11 +8,6 @@ You can reach me via email at 956465331@qq.com or ufovsmba@gmail.com.
 ## 💻 Some data follow
 
 <div align="center">
-    <picture>
-   <img src="https://github.com/gallifreyCar/gallifreyCar/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/> 
-   </picture>
- <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
 <table>
     <tr>
         <td><picture><img src="/github-metrics/base.svg" alt="Metrics"></img></picture></td>
@@ -23,7 +18,10 @@ You can reach me via email at 956465331@qq.com or ufovsmba@gmail.com.
         <td><img src="https://github.com/gallifreyCar/gallifreyCar/blob/main/github-metrics/metrics.plugin.isocalendar.fullyear.svg"></img></td>
     </tr>
 </table>
-
+  <picture>
+   <img src="https://github.com/gallifreyCar/gallifreyCar/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/> 
+   </picture>
+ <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
    <!--img  src="https://streak-stats.demolab.com?user=gallifreyCar&theme=merko&border_radius=4.7&mode=weekly" /-->
