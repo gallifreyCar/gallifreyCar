@@ -8,7 +8,9 @@ You can reach me via email at 956465331@qq.com or ufovsmba@gmail.com.
 ## 💻 Some data follow
 
 <div align="center">
-   <img src="https://github.com/gallifreyCar/gallifreyCar/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+    <picture>
+   <img src="https://github.com/gallifreyCar/gallifreyCar/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/> 
+   </picture>
  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
  <picture>
   <img src="/github-metrics/base.svg" alt="Metrics">
