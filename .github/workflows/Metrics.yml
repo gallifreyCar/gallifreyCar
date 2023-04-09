@@ -17,7 +17,6 @@ jobs:
         with:
           filename: github-metrics/base.svg
           token: ${{ secrets.MY_TOKEN }}
-          template: repository
       - name: Compact display
         uses: lowlighter/metrics@latest
         with:
