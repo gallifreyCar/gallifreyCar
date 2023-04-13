@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule: # BEIJING 00:00  == 16:00 UTC
-    - cron: "0 16 * * *"
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -19,6 +19,7 @@ jobs:
         run: |
           git config user.name gallifreyCar
           git config user.email gallifreyCar@github.com
+          git pull
           git add -A .
           git commit -m "generated"
           git push
