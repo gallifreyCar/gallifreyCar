@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="319" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="339" class="">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>geektutu/7days-golang</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhangzqs/esp-clock-rs</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">使用Rust语言编写的个人时钟，基于Slint GUI框架，计划支持PC端模拟器，可移植性</div>
@@ -129,10 +129,10 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhangzqs/sit-os</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">本人的本科毕业设计</div>
+                                <div class="field description">本人的本科毕业设计，一个运行在RISC-V架构处理器上的玩具嵌入式操作系统</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
