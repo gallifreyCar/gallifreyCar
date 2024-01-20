@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>uber-go/automaxprocs</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically set GOMAXPROCS to match Linux container CPU quota.</div>
